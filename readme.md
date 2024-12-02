@@ -41,7 +41,7 @@ Ensure you have Python 3.6 or later installed on your system.
 1. **Clone the repository**:
 
 ```bash
-   git clone https://github.com/<>
+   git clone https://github.com/RAM6571/Instagram-Like-Filters-Tool
    cd Instagram-Like-Filters-Tool
  ```
 
