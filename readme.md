@@ -28,6 +28,19 @@ The filters are loaded from a JSON file, each with specific settings:
 
 Some sample filters include "Bright," "Cool," "Warm," "Grayscale," and others.
 
+## Input Image Requirements  
+- **Supported Formats**: JPG, PNG.  
+- **Recommended Size**: Images should ideally be under 5MB to ensure smooth performance.  
+
+## Supported Operating Systems  
+- **Windows**  
+- **Linux**  
+
+## References and Resources  
+- **Pillow Documentation**: [https://pillow.readthedocs.io](https://pillow.readthedocs.io)  
+- **Tkinter Documentation**: [https://docs.python.org/3/library/tkinter.html](https://docs.python.org/3/library/tkinter.html)  
+
+
 ## Project Structure
 
 ```plaintext
