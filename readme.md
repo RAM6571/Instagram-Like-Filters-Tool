@@ -1,6 +1,13 @@
 # TITLE OF THE PROJECT :Instagram-Like Filters Tool
 PROJECT TEAM MEMEBERS  : M.Ram Nagendra Kumar
-Software used : Python Interpreter
+
+# Software Used
+- **Python 3.6+**: Core programming language for developing the application.  
+- **Tkinter**: Used for building the graphical user interface (GUI).  
+- **Pillow (PIL)**: Used for image loading, manipulation, and saving.  
+- **JSON**: Used for storing and managing filter configurations.  
+
+
 This project is a Python-based GUI application that applies Instagram-style filters to images. Built with `Tkinter` for the GUI and `Pillow` for image manipulation, this application allows users to load an image, preview filters in a grid layout, apply filters dynamically, and save the edited image. Users can adjust filter settings with sliders and checkboxes, making the application highly customizable.
 
 ## Features
@@ -42,7 +49,7 @@ Ensure you have Python 3.6 or later installed on your system.
 1. **Clone the repository**:
 
 ```bash
-   git clone https://github.com/<>
+   git clone https://github.com/RAM6571/Instagram-Like-Filters-Tool.git
    cd Instagram-Like-Filters-Tool
  ```
 
